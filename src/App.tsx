@@ -1,5 +1,4 @@
-import './App.css'
-
+import "./App.css";
 function App() {
   return (
     <main>
@@ -15,7 +14,6 @@ function App() {
         <a href="mailto:truongduchuy910@gmail.com">truongduchuy910@gmail.com</a>
       </section>
     </main>
-  )
+  );
 }
-
-export default App
+export default App;
